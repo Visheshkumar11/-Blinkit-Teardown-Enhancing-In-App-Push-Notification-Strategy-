@@ -8,10 +8,10 @@ This project analyzes **Blinkit's** in-app & push notification strategy to evalu
 - How can they be made more **relevant, less intrusive, and action-driven**?
 
 ## Key Takeaways 🔥
-✅ **Balance Engagement & Notification Fatigue**
-✅ **AI-driven Personalization for Smarter Targeting**
-✅ **Interactive Notifications to Boost Conversion Rates**
-✅ **User-Controlled Notification Preferences for Seamless Experience**
+✅ **Balance Engagement & Notification Fatigue**  
+✅ **AI-driven Personalization for Smarter Targeting**  
+✅ **Interactive Notifications to Boost Conversion Rates**  
+✅ **User-Controlled Notification Preferences for Seamless Experience**  
 
 ---
 
@@ -29,10 +29,10 @@ This project analyzes **Blinkit's** in-app & push notification strategy to evalu
 - **Preference-based opt-ins** (choose frequency, types)
 - **Granular notification management** for better UX
 
+---
 
 ## Contributions 🤝
 Feel free to raise **issues, suggestions, or PRs** to improve this teardown!
-
 
 ---
 
