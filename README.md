@@ -33,12 +33,13 @@ This project analyzes **Blinkit's** in-app & push notification strategy to evalu
 
 ## Contributions 🤝
 Feel free to raise **issues, suggestions, or PRs** to improve this teardown!
+## See Project Engagement on LinkedIn 🔗
+Check out the discussion and engagement on LinkedIn: [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7295397158176903168/)
 
 ---
 
 ### 🚀 Let's optimize notification strategies for a better user experience!
 
----
 ---
 
 ## 🤝 Connect with Me
